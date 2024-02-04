@@ -15,7 +15,7 @@ As we know JS is single threaded language. It doesn’t support multi-threading.
 
 ## Installation
 
-To demostrate this project, just run "index.html" in any browser.
+To demostrate this project, Download this project and "index.html" in any browser.
 
 ## Usage
 

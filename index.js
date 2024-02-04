@@ -24,7 +24,7 @@ function calculateSumWithoutWorkers(){
     p2.innerText="Loading...";
     sum = 0;
 	// console.log(message.data);
-	for (let i = 1; i < 1000000000; i++) {
+	for (let i = 1; i < 100000000; i++) {
         sum += i;
 	}
     p2.innerText="The Sum is "+ sum;
